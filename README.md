@@ -19,22 +19,23 @@ Root:
 │    Haoliang_Visualizations.py
 │    Sri_Visualizations.py
 │    Yuqi_Visualizations.py
-Presentation_Slides.pdf
-Presentation_Visuals.ipynb
-README.md
+│    cmap.dat
+│Presentation_Slides.pdf
+│Presentation_Visuals.ipynb
+│README.md
 ```
 
 
-### How to run your code
-Please download/import all [third-party modules](https://github.com/kencasimiro/Travel-Flights-Analysis/blob/main/README.md#name-all-third-party-modules) before executing the code.
+### Running The Code
+Please download/import all [third-party modules](https://github.com/kencasimiro/Travel-Flights-Analysis/blob/main/README.md#name-all-third-party-modules) and the dataset from [Kaggle](https://www.kaggle.com/usdot/flight-delays) before executing the code. Note that the dataset is too big to be directly included here.
 All code can be run through terminal/command-line by doing the following:
 ```
 python3 <file.py>
 ```
 
-### Name all third-party modules
+### Third-Party Modules
 
-All third-party modules can be downloadec through the following methods:
+All third-party modules can be downloaded through the following methods:
 
 [Conda](https://docs.conda.io/en/latest/):
 ```
@@ -58,6 +59,8 @@ brew install <third-party module>
 * **[Plotly](https://plotly.com/)**
 * **[Geopandas](https://geopandas.org/en/stable/)**
 * **[Sklearn](https://scikit-learn.org/stable/)**
+* **[Squarify](https://github.com/laserson/squarify)**
+* **[Calmap]()**
 
 ## Authors
 
